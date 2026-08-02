@@ -1,0 +1,10 @@
+(post register) <img width="539" height="320" alt="image" src="https://github.com/user-attachments/assets/6d835fea-99b5-4cca-a07e-81b326d8e510" />
+(post login) <img width="536" height="324" alt="image" src="https://github.com/user-attachments/assets/c9062915-4cd7-437b-bb6d-4dd06f44beef" />
+(post komik) <img width="557" height="397" alt="image" src="https://github.com/user-attachments/assets/8d1a9f59-5f6b-42ce-913f-a1f4efd3e777" />
+(post genre) <img width="549" height="347" alt="image" src="https://github.com/user-attachments/assets/8d0f56d6-2eed-49e3-957f-d7e32e57f69d" />
+(get komik) <img width="555" height="463" alt="image" src="https://github.com/user-attachments/assets/9404cf88-2924-4d87-9047-efcee7e1c598" />
+(put komik) <img width="546" height="384" alt="image" src="https://github.com/user-attachments/assets/17cb0078-a888-49ea-92ea-4694dcfe05a5" />
+(delete komik) <img width="541" height="371" alt="image" src="https://github.com/user-attachments/assets/68f30316-83d8-4ced-b3a4-6d4d1cb8fd55" />
+(get genre) <img width="536" height="466" alt="image" src="https://github.com/user-attachments/assets/21ec2500-3aa9-4eda-8428-292b39cc362e" />
+(put genre) <img width="539" height="337" alt="image" src="https://github.com/user-attachments/assets/befa4e3e-d4c4-4b99-87be-7950c1c8de74" />
+(delete genre) <img width="560" height="314" alt="image" src="https://github.com/user-attachments/assets/e68820d7-4891-4bd0-aa47-5ab88f8edc5b" />
